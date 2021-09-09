@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
     siteName: 'Drone Digest',
-    tagline: 'The place to come to for drone news and info.',
+    tagline: 'The place to come to for the latest drone news, tutorials and product info.',
     featureImage: '/uploads/home-hero.jpg',
     logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
     googleAnalytics: {
