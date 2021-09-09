@@ -49,6 +49,9 @@ export default {
   height: 50px;
   overflow: hidden;
   width: 200px;
+  h1 {
+	font-size: 2em;
+  }
   .logo-inner {
     position: absolute;
     height: 500px;
