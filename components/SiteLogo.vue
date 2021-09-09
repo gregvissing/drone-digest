@@ -1,6 +1,6 @@
 <template>
   <div class="logo-wrapper">
-	<div>Drone Digest</div>
+	<h1>Drone Digest</h1>
     <!--<div
       :class="{
         'logo-inner': true,
