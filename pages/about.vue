@@ -15,6 +15,10 @@
             </strong>
           </p>
           <p>
+            Hello and welcome to my website! I created Drone Digest to highlight 
+            social media channels and websites that I feel can help drone users of all levels.
+          </p>
+          <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
             eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
             sunt temporibus. Distinctio doloremque eum magni nostrum quasi
