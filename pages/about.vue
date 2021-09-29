@@ -8,15 +8,14 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>Drone Digest</h3>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              Hello and welcome to my website!
             </strong>
           </p>
           <p>
-            Hello and welcome to my website! I created Drone Digest to highlight 
-            social media channels and websites that I feel can help drone users of all levels.
+            I created Drone Digest to highlight social media channels and websites that I feel can help drone users of all levels.
           </p>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
