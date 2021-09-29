@@ -4,7 +4,7 @@ subtitle: All the Tags You Need to Make Clean and Expressive Posts
 category:
   - Photography
 author: Daniel Kelly
-date: 2019-07-04T03:02:00.000Z
+date: 2019-09-01T03:02:00.000Z
 featureImage: /uploads/markup-hero.jpg
 ---
 Awake uses the awesome npm package [markdown-it ](https://github.com/markdown-it/markdown-it)by [Vitaly Puzrin](https://github.com/puzrin) to provide a wealth of markup options for your posts
