@@ -4,7 +4,7 @@ subtitle: Awake is Built to Be Blazing Fast
 category:
   - Accessories
 author: Greg Vissing
-date: 2019-08-02T04:27:56.800Z
+date: 2019-08-31T04:27:56.800Z
 featureImage: /uploads/marc-olivier-jodoin-nqoinj-ttqm-unsplash.jpg
 ---
 Awake is fast for a couple different reasons. It both capitalizes on the platform it's built for (JAM Stack) and the framework it's built on (Nuxt.js) as well as includes some intentional optimizations to improve the end user experience when it comes to speed. 
