@@ -2,7 +2,7 @@
 title: ResourceGrid.vue
 subtitle: Easily Display Grid of Posts/Categories Throughout the Site
 category:
-  - Part 107
+  - Drone Tips and Tricks
 author: Daniel Kelly
 date: 2019-08-31T04:27:56.800Z
 featureImage: /uploads/resource-grid-hero.jpg
