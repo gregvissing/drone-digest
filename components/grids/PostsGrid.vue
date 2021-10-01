@@ -24,7 +24,7 @@ export default {
   props: {
     perRow: { type: Number, default: 3 },
     number: { type: Number, default: 0 },
-    order: { type: String, default: 'DESC' },
+    order: { type: String, default: 'ASC' },
     category: {
       type: Array,
       default() {
